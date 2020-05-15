@@ -3,9 +3,9 @@
 	"dockerFile": "Dockerfile",
 	
 	// Set *default* container specific settings.json values on container create. 
-	"settings": {
-		"terminal.integrated.shell.linux": "/bin/ash"
-	},
+	// "settings": {
+	// 	"terminal.integrated.shell.linux": "/bin/bash"
+	// },
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [3000],
