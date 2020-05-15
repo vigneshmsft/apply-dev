@@ -1,4 +1,4 @@
 {
-	    "image" : "mcr.microsoft.com/vscode/devcontainers/base:ubuntu-18.04",
+	    "image" : "ruby:2.6.6-alpine3.11",
 	    "appPort": 3000
 }
