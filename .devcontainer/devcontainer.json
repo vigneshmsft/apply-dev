@@ -1,10 +1,10 @@
 {
-	"name": "Ruby Alpine 3.11",
+	"name": "Ubuntu 18.04",
 	"dockerFile": "Dockerfile",
 	
 	// Set *default* container specific settings.json values on container create. 
 	"settings": {
-		"terminal.integrated.shell.linux": "/bin/ash"
+		"terminal.integrated.shell.linux": "/bin/bash"
 	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
