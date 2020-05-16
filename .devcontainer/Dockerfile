@@ -1,1 +1,1 @@
-FROM ruby:2.6.6-alpine3.10
+FROM mcr.microsoft.com/vscode/devcontainers/base:ubuntu-18.04
